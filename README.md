@@ -2,7 +2,7 @@
 
 ## sistema-de-comentarios-reactjs
 
-Sistema simples feito com ReacjJS, JSON Server, Boostrap e Axios.
+Sistema simples feito com ReactJS, JSON Server, Boostrap e Axios.
 CI/CD com Codeship
 
 <hr>
